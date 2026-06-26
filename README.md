@@ -5,3 +5,5 @@ This repo contains some of the experiments conducted by me while learning Natura
 - Target texts/sequences you would like to discover patterns in
 - Takes in target sequence
 - Maps input sequences to numbers
+- Turns mapping of texts vectors to embedding matrix
+- Finds patterns in sequences
