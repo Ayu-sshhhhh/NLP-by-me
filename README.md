@@ -12,3 +12,13 @@ This repo contains some of the experiments conducted by me while learning Natura
 - *FULLY_CONNECTED_LAYER* - Further refines learned features from recurrent layers
 - *OUTPUT_LAYER* - Takes learned features and outputs them in shape of target labels
 - *OUTPUT_ACTIVATION* - Adds non-linearities to output layer
+
+## Different types of Models trained :
+- **Model 0** : Naive Bayes (baseline)
+- **Model 1** : Feed-forward NN (dense model)
+- **Model 2** : LSTM model
+- **Model 3** : GRU model
+- **Model 4** : Bidirectional-LSTM model
+- **Model 5** : 1D Conv NN
+- **Model 6** : TFHub pre-trained feature extractor
+- **Model 7** : Same as model 6 with 10 % of training data
